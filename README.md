@@ -1,7 +1,7 @@
 # Olá meu nome é Gabriela Felizarda Elias !
 
 
-Meus pronomes são **ELA/DELA** e tenho **20 anos**.
+Meus pronomes são **ELA/DELA** tenho **20 anos**.
 Sou estudante de **ADS** (Ánalise e Desenvolvimento de Sistemas) na **Universidade Cruzeiro do Sul**.
 
 
